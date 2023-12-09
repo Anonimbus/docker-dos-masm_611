@@ -19,7 +19,7 @@ Briefly, the Image generated through the Dockerfile here provides:
 1) Clone this repository to your local system.
 2) Move into this directory.
 3) Place your assembly source programs inside the `programs` folder.
-4) Run `docker compose up`. You should see a DOSBOX windows open up and move into the `C:` drive. You may read the [Program Execution ReadMe](programs/README.md) for more info on the very basics of using MASM with this setup.
+4) Run `docker compose up`. You should see a DOSBOX window open up with the `C:` drive as the current working directory. You may read the [Program Execution ReadMe](programs/README.md) for more info on the very basics of using MASM with this setup.
 
 5) Once you're done with MASM (say, at the end of your semester) you can delete both the `masm611 Docker Compose Project` and the `masm611 Docker Image` through the Docker Desktop dashboard.
 
