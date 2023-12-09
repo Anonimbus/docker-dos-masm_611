@@ -11,7 +11,7 @@ Briefly, the Image generated through the Dockerfile here provides:
 - DOSXNT MSOFT1 By Phar Lap Software Inc. (`DOSXNT.EXE`)
 - Microsoft Macro Assembler and Linker (presumably v6.11) (`ML.EXE` and `ML.ERR`)
 
-# Prerequisites for Use
+## Prerequisites for Use
 1) You have Docker Desktop installed.
 2) You have a running X Window Server (such as XQuartz) running on your host, and it is configured to accept connections from localhost.
 
