@@ -1,7 +1,9 @@
-# aathish04/masm611
+## anonimbus01/dos_masm_611
 
-This repository provides the Dockerfile for the [aathish04/masm611 Docker Image](https://hub.docker.com/repository/docker/aathish04/masm611/general), as well as a `compose.yaml` for ease of use of the image.
-This repository is not an "official" repository.
+This is the **amd-version** for the arm docker image @[aathish04/masm611](https://github.com/Aathish04/docker-masm611)
+
+This repository provides the Dockerfile for the [anonimbus01 Docker Image](https://hub.docker.com/repository/docker/anonimbus01/dos_masm_611/general), as well as a `compose.yaml` for ease of use of the image.
+**This repository is not an "official" repository.**
 
 Briefly, the Image generated through the Dockerfile here provides:
 - MASM v6.11 (`MASM.EXE`)
