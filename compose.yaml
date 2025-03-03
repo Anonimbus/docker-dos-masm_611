@@ -1,6 +1,6 @@
 services:
   masm611:
-    image: aathish04/masm611:latest
+    image: anonimbus01/dos_masm_611:latest
     environment:
       - DISPLAY=host.docker.internal:0
     volumes:
