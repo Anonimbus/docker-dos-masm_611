@@ -38,11 +38,11 @@ unlike for windows users
 
 For **linux users**, or if you want to build manually, on this repo's folder do:
 ```bash
-    docker build -t <image_name>:<tag>
+    docker build -t <image_name>:<tag> .
 ```
 example:
 ```bash
-    docker build -t dos_masm_611:full
+    docker build -t dos_masm_611:full .
 ```
 5) Run `docker compose up`.
 
